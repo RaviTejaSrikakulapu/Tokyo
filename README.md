@@ -1,3 +1,3 @@
 # Tokyo
 
-ToDownload Raw Content: https://raw.githubusercontent.com/RaviTejaSrikakulapu/Tokyo/refs/heads/main/
+ToDownload Raw Content: https://raw.githubusercontent.com/RaviTejaSrikakulapu/Tokyo/refs/heads/main/{filename}
